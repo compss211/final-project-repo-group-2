@@ -10,4 +10,4 @@ favorite_number = 8
 result = favorite_number * 2
 print(f"My favorite number times 2 is: {result}")
 
- # changes
+ # changes 
