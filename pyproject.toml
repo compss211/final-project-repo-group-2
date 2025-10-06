@@ -1,5 +1,5 @@
 [project]
-name = "mypkg"
+name = "amazon_fashion_review"
 version = "0.0.1"
 description = "Final Project Group Repository for COMPSS-211"
 readme = "README.md"
