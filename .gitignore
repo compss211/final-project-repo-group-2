@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large data files and datasets
+# Ignore all files in the data directory to avoid pushing large datasets
+data/
+*.csv
