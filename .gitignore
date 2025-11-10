@@ -210,3 +210,7 @@ __marimo__/
 # Ignore all files in the data directory to avoid pushing large datasets
 data/
 *.csv
+
+# checkpoint
+echo "*.state_dict" >> .gitignore
+echo "checkpoints/" >> .gitignore
