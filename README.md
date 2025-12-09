@@ -1,8 +1,8 @@
-# COMPSS-211-Final-Project-Template-Repo
+# COMPSS 211 Final Project
 
-## Organization
-
-## Contributors
+### Contributors
 - Pei Zheng
 - Kaia Gao
 - Fuguan Obrien
+  
+## Organization
