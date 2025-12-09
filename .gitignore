@@ -213,4 +213,4 @@ data/
 
 # checkpoint
 echo "*.state_dict" >> .gitignore
-echo "checkpoints/" >> .gitignore
+echo "checkpoints/" >> .gitignore.DS_Store
