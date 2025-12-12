@@ -1,4 +1,4 @@
-# COMPSS-211-Final-Project-Template-Repo
+# COMPSS-211-Final-Project-Repo-Group 2
 Pei's Repository for COMPSS-211 Final Projects
 
 ## Contributor: Pei Zheng
