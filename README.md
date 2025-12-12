@@ -70,7 +70,7 @@ This project was completed for the Master’s of Computational Social Science pr
 
 Repository Structure
 --------------------
-
+```
 project-root/
 ├── .devcontainer/
 │   └── devcontainer.json
@@ -115,3 +115,4 @@ project-root/
 ├── README.md
 ├── environment.yml
 └── pyproject.toml
+```
