@@ -1,8 +1,13 @@
-# COMPSS 211 Final Project
+# COMPSS-211-Final-Project-Template-Repo
 
-### Contributors
-- Pei Zheng
-- Kaia Gao
-- Fuguan Obrien
-  
-## Organization
+Template repository for COMPSS-211 Final Projects
+
+## Contributors
+
+### Pei Zheng
+
+I will be working on text analysis and visualization for our project.
+
+### Kaia Gao
+
+I will be working on ABSA section.

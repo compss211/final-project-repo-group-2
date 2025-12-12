@@ -214,3 +214,6 @@ data/
 # checkpoint
 echo "*.state_dict" >> .gitignore
 echo "checkpoints/" >> .gitignore.DS_Store
+
+# Ignore Mac system files
+.DS_Store
