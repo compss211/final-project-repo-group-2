@@ -99,7 +99,7 @@ project-root/
 │   ├── colab_absa_llm.ipynb
 │   ├── data_cleaning.ipynb
 │   ├── llm_absa_analysis.ipynb
-│   ├── seasonal_analysis2.ipynb
+│   ├── seasonal_analysis.ipynb
 │   ├── subset_absa_analysis.ipynb
 │   ├── subset_absa_extraction.ipynb
 │   ├── winter_analysis.ipynb
